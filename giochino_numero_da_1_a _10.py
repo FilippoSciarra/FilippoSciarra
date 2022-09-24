@@ -1,8 +1,11 @@
+#this is a very stupid little game that I've made yesterday
 import random
 
+#my first ever project
 n = random.randint(1, 10)
 print('Sto pensando ad un numero tra 1 e 10...')
 
+# pretty dumb I know
 running = True
 while running:
     numero_indovinato = input('Prova ad indovinare')
